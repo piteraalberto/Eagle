@@ -1,0 +1,1 @@
+"""Data widgets (charts)."""
